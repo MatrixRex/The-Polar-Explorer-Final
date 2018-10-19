@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Polar Explorer Final.Plugins", "The Polar Explorer Final.Plugins.csproj", "{0AF8CBD3-9D66-1895-EFF7-76953C0110B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Polar Explorer Final", "The Polar Explorer Final.csproj", "{77ED4900-8BCF-B8F7-C472-417A11611FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Polar Explorer Final.Editor.Plugins", "The Polar Explorer Final.Editor.Plugins.csproj", "{A4E2F530-800E-B343-BE05-1F81468C573B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Polar Explorer Final.Editor", "The Polar Explorer Final.Editor.csproj", "{0B64A00B-EFD4-02DF-F23E-660CD3BEBBB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF8CBD3-9D66-1895-EFF7-76953C0110B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF8CBD3-9D66-1895-EFF7-76953C0110B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF8CBD3-9D66-1895-EFF7-76953C0110B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF8CBD3-9D66-1895-EFF7-76953C0110B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ED4900-8BCF-B8F7-C472-417A11611FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ED4900-8BCF-B8F7-C472-417A11611FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ED4900-8BCF-B8F7-C472-417A11611FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ED4900-8BCF-B8F7-C472-417A11611FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E2F530-800E-B343-BE05-1F81468C573B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E2F530-800E-B343-BE05-1F81468C573B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E2F530-800E-B343-BE05-1F81468C573B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E2F530-800E-B343-BE05-1F81468C573B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B64A00B-EFD4-02DF-F23E-660CD3BEBBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B64A00B-EFD4-02DF-F23E-660CD3BEBBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B64A00B-EFD4-02DF-F23E-660CD3BEBBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B64A00B-EFD4-02DF-F23E-660CD3BEBBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
