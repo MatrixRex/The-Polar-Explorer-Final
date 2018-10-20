@@ -25,7 +25,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_DisplayName: Pixels
   m_Id: c65f0af3-4c96-43a0-9f04-f2b3e23e44b1
-  m_OutputSize: 720
+  m_OutputSize: 0
   m_AspectRatio: 0
   m_ForceEvenSize: 1
 --- !u!114 &114732517816472554
@@ -68,7 +68,7 @@ MonoBehaviour:
     m_Pattern: got wood.<ext>
   m_DestinationPath:
     m_root: 0
-    m_leaf: C:/Users/Anika/Desktop
+    m_leaf: C:/Users/Anika/Videos
   m_InputsSettings:
     m_InputsSettingsAssets:
     - {fileID: 114482508317387976}
